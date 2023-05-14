@@ -14,3 +14,4 @@ alias composer-docker="docker run --rm --interactive --tty --volume $PWD:/app co
 alias python="/usr/bin/python3"
 alias pip="/usr/bin/pip3"
 alias rrrbot="sudo reboot"
+alias contafile="find . -type f | wc -l"
